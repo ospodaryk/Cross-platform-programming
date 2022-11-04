@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4f3e545-d86a-4ca1-9365-f0a9b537cefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex7/Ex7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KG 2/.idea/KG 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_4/src/StringManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_4/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_5/KPP_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_5/src/InformationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_5/src/TaskTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_5/src/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KPP_5/src/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPP_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CafeSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/LAB2_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/Shoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/SortingManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/TypesClothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB2_2/src/TypesShoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/LAB3_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/DayComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/MonthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB3_3/src/YearComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB4_4/LAB4_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB4_4/src/StringManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB4_4/src/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/LAB7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB7/src/ThreadsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/src/main/java/com/example/lab7_2/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/src/main/java/com/example/lab7_2/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/src/main/java/models/ThreadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7_2/src/main/resources/com/example/lab7_2/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex/ex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Tasks$ReadFromFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Tasks$ReadFromFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Tasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/out/production/KPP_3/Tasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/src/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_3/src/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_3/src/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_4/out/production/KPP_4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_4/out/production/KPP_4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_4/src/OurText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_4/src/OurText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_4/src/Tasks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KPP_4/src/Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KPP_4/src/Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate/out/production/generate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../generate/out/production/generate/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generate/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../generate/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GcnvR82zpHWKgHHNZB0zEJSQHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/oksanaspodarik/Documents/JAVA/KPP_6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SerializeTester">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KPP_6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializeTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KPP_6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SerializeTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializeTester.serializeCafe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KPP_6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SerializeTester" />
+      <option name="METHOD_NAME" value="serializeCafe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SerializeTester" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SerializeTester.serializeCafe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4f3e545-d86a-4ca1-9365-f0a9b537cefe" name="Changes" comment="" />
+      <created>1666696970531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666696970531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
